@@ -31,12 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+<img src="/home/student/Documents/22008392/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/241862946-dd6a8b36-b997-475d-b3f2-d962f9dce48a.jpg" width="250" height="250">
 
 ### Output:
+<img src="/home/student/Documents/22008392/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/241863227-3f4383d0-dea7-4ff7-b70e-ed1eb6bd8f54.png" width="250" height="450">
 
-
-### Name:
-### Register Number:
+### Name              : Sam Israel D
+### Register Number   : 212222230128
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
